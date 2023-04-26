@@ -7,7 +7,7 @@
 2. 백엔드 
 
      <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  - Java, Spring, JPA 를 공부하고 있어요.
+  - Java, Spring, JPA 를 공부하고 있어요. (https://uncovered-letter-dfc.notion.site/aj4941-ee35b002995f4f0e85155dd83e5ad265)
 
 
 
