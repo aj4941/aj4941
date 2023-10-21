@@ -22,7 +22,7 @@
 
  ---
  
- <h3 align="left">📌 Stats </h3>
+ <h3 align="left">📌 Problem Solving Stats </h3>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aj4941)](https://solved.ac/aj4941/)
 [![CodeForces Profile](https://cf.leed.at?id=aj4941)](https://codeforces.com/profile/aj4941)
