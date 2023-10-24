@@ -23,8 +23,13 @@
  ---
  
  <h3 align="left">📌 Problem Solving Stats </h3>
- 
+
+- 백준 온라인 저지 Diamond 5<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aj4941)](https://solved.ac/aj4941/)
+
+<br>
+
+- Codeforces Expert 등급<br><br>
 [![CodeForces Profile](https://cf.leed.at?id=aj4941)](https://codeforces.com/profile/aj4941)
 
 ---
