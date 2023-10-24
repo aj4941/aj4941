@@ -29,7 +29,7 @@
 
 <br>
 
-- Codeforces Expert 등급<br><br>
+- Codeforces 블루 등급<br><br>
 [![CodeForces Profile](https://cf.leed.at?id=aj4941)](https://codeforces.com/profile/aj4941)
 
 ---
