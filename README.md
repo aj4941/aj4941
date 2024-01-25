@@ -24,7 +24,7 @@
  
  <h3 align="left">📌 Problem Solving Stats </h3>
 
-- 백준 온라인 저지 Diamond 5<br><br>
+- 백준 온라인 저지 Diamond 4<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aj4941)](https://solved.ac/aj4941/)
 
 <br>
