@@ -28,6 +28,7 @@
  - 2021 ICPC Seoul Regional 56th place (2021.11)
  - 2022 ICPC Seoul Regional 50th place (2022.11)
  - SW Maestro 14th (2023.06 ~ 2023.11)
+ - Softeer HSAT 자격 인증 Lv.3 (2023.12)
  - 삼성전자 Software Certi Pro (Level B) (2024.08)
 ---
 
