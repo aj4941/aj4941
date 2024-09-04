@@ -25,10 +25,10 @@
 
  <h3 align="left">🚀 Experience </h3>
  
- - 2021 ICPC Seoul Regional 56th place
- - 2022 ICPC Seoul Regional 50th place
- - SW Maestro 14th
-
+ - 2021 ICPC Seoul Regional 56th place (2021.11)
+ - 2022 ICPC Seoul Regional 50th place (2022.11)
+ - SW Maestro 14th (2023.06 ~ 2023.11)
+ - 삼성전자 Software Certi Pro (Level B) (2024.08)
 ---
 
 <h3 align="left">📌 Problem Solving Stats</h3>
