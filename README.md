@@ -1,9 +1,18 @@
- <h2 align="left">👋 Jeong Yong Choi's Github </h2>
- 안녕하세요. 기억보다는 기록을 하는 백엔드 엔지니어 최정용입니다.
+<h2 align="left">👋 Jeong Yong Choi's Github </h2>
 
- ---
+<div>
+
+안녕하세요. 기억보다는 기록을 하는 백엔드 엔지니어 최정용입니다. 👋
  
- <h3 align="left">⚡️ Tech Stack </h3>
+- 📄 Blog : https://blog.naver.com/aj4941
+- 🪪 Resume :
+- 🗃️ Portfolio : 
+
+</div>
+
+----
+
+<h3 align="left">⚡️ Tech Stack </h3>
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -20,17 +29,27 @@
  - 2022 ICPC Seoul Regional 50th place
  - SW Maestro 14th
 
- ---
- 
- <h3 align="left">📌 Problem Solving Stats </h3>
+---
 
-- 백준 온라인 저지 Diamond 4<br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aj4941)](https://solved.ac/aj4941/)
+<h3 align="left">📌 Problem Solving Stats</h3>
 
-<br>
+<table>
+<tr>
+<td>
 
-- Codeforces 블루 등급<br><br>
-[![CodeForces Profile](https://cf.leed.at?id=aj4941)](https://codeforces.com/profile/aj4941)
+**백준 온라인 저지 Diamond 4**<br><br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aj4941" width="300px" height="150px">
+
+</td>
+<td>
+
+**코드포스 블루**<br><br>
+<img src="https://cf.leed.at?id=aj4941" width="300px" height="150px">
+
+</td>
+</tr>
+</table>
+
 
 ---
 
