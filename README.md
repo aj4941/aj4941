@@ -12,6 +12,16 @@
 
 ----
 
+ <h3 align="left">🚀 Experience </h3>
+ 
+ - 2021 한국 대학생 프로그래밍 경시대회 입선 56위 (2021.11)
+ - 2022 한국 대학생 프로그래밍 경시대회 입선 50위 (2022.11)
+ - 소프트웨어 마에스트로 14기 수료 (2023.06 ~ 2023.11)
+ - Softeer HSAT 자격 인증 Lv.3 (2023.12)
+ - 삼성전자 Software Certi Pro (Level B) (2024.08)
+
+---
+
 <h3 align="left">⚡️ Tech Stack </h3>
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -21,15 +31,6 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
----
-
- <h3 align="left">🚀 Experience </h3>
- 
- - 2021 한국 대학생 프로그래밍 경시대회 입선 56위 (2021.11)
- - 2022 한국 대학생 프로그래밍 경시대회 입선 50위 (2022.11)
- - 소프트웨어 마에스트로 14기 수료 (2023.06 ~ 2023.11)
- - Softeer HSAT 자격 인증 Lv.3 (2023.12)
- - 삼성전자 Software Certi Pro (Level B) (2024.08)
 ---
 
 <h3 align="left">📌 Problem Solving Stats</h3>
