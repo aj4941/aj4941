@@ -39,7 +39,7 @@
 <tr>
 <td>
 
-**백준 온라인 저지 Diamond 4**<br><br>
+**백준 온라인 저지 Diamond 4 (2000+ 문제 풀이)**<br><br>
 <a href="https://solved.ac/profile/aj4941">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aj4941" width="300px" height="150px">
 </a>
@@ -47,7 +47,7 @@
 </td>
 <td>
 
-**코드포스 블루**<br><br>
+**코드포스 블루 (1500+ 문제 풀이)**<br><br>
 <a href="https://codeforces.com/profile/aj4941">
 <img src="https://cf.leed.at?id=aj4941" width="300px" height="150px">
 </a>
