@@ -5,7 +5,6 @@
 안녕하세요. 기억보다는 기록을 하는 백엔드 엔지니어 최정용입니다. 👋
  
 - 📄 Blog : https://blog.naver.com/aj4941
-- 🪪 Resume : [Notion Resume](https://uncovered-letter-dfc.notion.site/7644812e8a0c47ed905c7d8cef487865)
 
 </div>
 
