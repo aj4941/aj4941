@@ -6,7 +6,6 @@
  
 - 📄 Blog : https://blog.naver.com/aj4941
 - 🪪 Resume : [Notion Resume](https://uncovered-letter-dfc.notion.site/7644812e8a0c47ed905c7d8cef487865)
-- 🗃️ Portfolio : [Notion Portfolio](https://uncovered-letter-dfc.notion.site/6e99560fbed647cead4325d566e829d3)
 
 </div>
 
